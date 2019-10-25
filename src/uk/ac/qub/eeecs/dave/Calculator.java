@@ -10,6 +10,5 @@ public class Calculator {
 	}
 	
 }
-// Added a comment
 
 
